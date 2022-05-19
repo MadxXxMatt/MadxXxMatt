@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MadxXxMatt
+- 👀 I’m interested in way to many things to be honest, mostly tech, economics, politics, philosophie, health, envioromentalisim,...
+- (You see where this is gooing.) 
+- 🌱 I’m currently learning how to code in C++ in scool (additionally to mechcanical and electrical engineering) and following the Odin project.
+- 💞️ I’m looking to collaborate on getting started.
+- 📫 How to reach me is still a work in progress.
